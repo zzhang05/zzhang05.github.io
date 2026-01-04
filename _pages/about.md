@@ -49,7 +49,7 @@ Backup content
 
 I am a Researcher in Huawei 2012 Labs, Darwin Research Center, London, UK. 
 
-I obtained my Ph.D. under the supervision of Dr. [Yang Hua](yanghuadr.github.io), Dr. Sean McLoone and Dr Hui Wang in Queen's University Belfast (QUB), UK, 2025. My Ph.D. research was fully funded by the DfE scholarship. I obtained my Master’s and Bachlor's degrees from Univeristy of Science and Techonolgy of China, China, advised by Prof. Jun Yu, on 2020 and 2017, respectively.
+I obtained my Ph.D. under the supervision of Dr. [Yang Hua](https://yanghuadr.github.io), Dr. Sean McLoone and Dr Hui Wang in Queen's University Belfast (QUB), UK, 2025. My Ph.D. research was fully funded by the DfE scholarship. I obtained my Master’s and Bachlor's degrees from Univeristy of Science and Techonolgy of China, China, advised by Prof. Jun Yu, on 2020 and 2017, respectively.
 
 I have more than eight years of combined research and engineering experience in computer vision and machine learning, focusing on fundamental research topics and real-world applications, with a particular emphasis on:
 
