@@ -288,8 +288,8 @@ highlight_author: "Zhaoyu Zhang"
 scholar:
   #last_name: [Einstein]
   #first_name: [Albert, A.]
-  last_name: [Hua]
-  first_name: [Yang]
+  last_name: [Zhang]
+  first_name: [Zhaoyu]
 
   style: apa
   locale: en
