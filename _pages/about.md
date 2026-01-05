@@ -13,7 +13,7 @@ profile:
     <p>Huawei 2012 Labs</p>
     <p>London, UK</p>
 
-selected_papers: true # 强烈建议改为 true，这是 al-folio 最好看的功能之一
+selected_papers: false # 强烈建议改为 true，这是 al-folio 最好看的功能之一
 social: true
 
 announcements:
@@ -33,7 +33,7 @@ I obtained my Ph.D. in 2025 from **Queen's University Belfast (QUB)**, UK, under
 
 With over eight years of experience in computer vision and machine learning, my research bridges fundamental problems with real-world applications. I have a particular focus on:
 
-* **Generative Models** (Diffusion Models, etc.)
+* **Generative Models** (GAN and Diffusion Models, etc.)
 * **Data-Efficient Learning**
 * **Reasoning of Large Language Models (LLMs)**
 * **Efficient Hardware Design**
