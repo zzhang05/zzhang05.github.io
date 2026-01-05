@@ -412,15 +412,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-paper-has-been-accepted-by-ches2025",
-          title: 'One Paper has been accepted by CHES2025',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-one-paper-has-been-accepted-by-icml2025",
+            },},{id: "news-one-paper-has-been-accepted-by-ches2025",
+          title: 'One Paper has been accepted by CHES2025',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-icml2025",
           title: 'One Paper has been accepted by ICML2025',
           description: "",
           section: "News",},{
