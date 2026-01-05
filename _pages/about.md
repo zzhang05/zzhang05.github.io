@@ -35,5 +35,5 @@ With over eight years of experience in computer vision and machine learning, my 
 
 * **Generative Models** (GAN and Diffusion Models, etc.)
 * **Data-Efficient Learning**
-* **Reasoning of Large Language Models (LLMs)**
+* **Large Language Models (LLMs) Reasoning**
 * **Efficient Hardware Design**
