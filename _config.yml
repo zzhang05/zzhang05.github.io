@@ -282,7 +282,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
-highlight_author: "Yang Hua"
+highlight_author: "Zhaoyu Zhang"
 
 
 scholar:
