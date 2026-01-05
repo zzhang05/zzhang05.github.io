@@ -209,7 +209,7 @@ exclude:
   - _pages/projects.md   
   - _pages/repositories.md       
   - _pages/cv.md    
-  - _people/ 
+#  - _people/ 
 #  - _pages/teaching.md
 #  - _pages/awards.md
 keep_files:
