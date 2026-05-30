@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-25
+date: 2026-05-28
 inline: true
 related_posts: false
 ---
 
-One Paper has been accepted by SIGIR2025
+Best Model Efficience on CVPR2026 VAND 4.0 Challenge Retail Track
