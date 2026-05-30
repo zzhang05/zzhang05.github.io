@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-patents",
-          title: "Patents",
+        },{id: "nav-patents-and-competition",
+          title: "Patents and Competition",
           description: "These granted patents played important roles for the Huawei’s new product line including all series Phones.",
           section: "Navigation",
           handler: () => {
