@@ -11,3 +11,5 @@ Guanxiong Sun, Zhaoyu Zhang, Zhensong Zhang, Jifei Song, and Jiankang Deng. Huaw
 
 Haonian Xie and Zhaoyu Zhang. Best Efficience Prize in CVPR2026 VAND 4.0 Challenge Retail Track (First Prize). 2026
 
+Zhaoyu Zhang. First Prize of National High School Mathmatic Competetion. 2013
+
