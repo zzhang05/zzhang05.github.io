@@ -5,7 +5,7 @@ title: Awards
 nav: true
 nav_order: 3
 ---
-
+- **2026**: Best Efficiency Prize in CVPR2026 VAND 4.0 Challenge Retail Track (First Prize). 2026
 - **2025**: EEECS Thesis Award (1st Prize), Queen’s University Belfast, UK
 - **2025**: CVPR Travel Award, Nashville, USA
 - **2025**: School of EEECS Travel Award, Queen’s University Belfast, UK
